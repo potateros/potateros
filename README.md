@@ -1,13 +1,16 @@
-## <samp>Heyoo 👋</samp>
+<img src="https://github.com/potateros/potateros/blob/master/hithere.gif" width="200px"/>
+<br>
 
-<samp>I'm Chee Hong Ngu, Software Engineer 🧑‍💻 at Hubble 📍. <br> 
-I like ☕ coffee, 🍱 food, and 💻 code. <br>
-✨ Am involved in communities - [@GDGKualaLumpur](https://github.com/GDGKualaLumpur/), and previously [@SunwayTechClub](https://github.com/sunwaytechclub). <br>
-💎 I work with Ruby and Rails for my job, and JavaScript for everything else. <br>
-📫 Ping me at hi@potateros.xyz or @ me on the [bird app 🐦](https://twitter.com/potateros) (might be a little chaotic) ! <br>
+<samp>I'm Chee Hong Ngu, Software Engineer 🧑‍💻 at Hubble 📍.<br> 
+I like ☕ coffee, 🍱 food, and 💻 code.<br>
+✨ Am involved in communities - [@GDGKualaLumpur](https://github.com/GDGKualaLumpur/), and previously [@SunwayTechClub](https://github.com/sunwaytechclub).<br>
+💎 I work with Ruby and Rails for my job, and JavaScript for everything else.<br>
+📫 Ping me at hi@potateros.xyz or<br>
+🐦 @ me on the [bird app](https://twitter.com/potateros) (might be a little chaotic) !<br>
 </samp>
 
-<img src="https://media.giphy.com/media/VGuAZNdkPUpEY/giphy.gif" width="150px"/>
+<br>
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150px"/>
 
 <!--
 **potateros/potateros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![some alt text](https://www.randos.online/u/potateros?theme=blue)](https://randos.online/u/potateros/next)
