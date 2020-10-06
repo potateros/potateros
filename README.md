@@ -6,7 +6,6 @@ I like ☕ coffee, 🍱 food, and 💻 code.<br>
 ✨ Am involved in communities - [@GDGKualaLumpur](https://github.com/GDGKualaLumpur/), and previously [@SunwayTechClub](https://github.com/sunwaytechclub).<br>
 💎 I work with Ruby and Rails for my job, and JavaScript for everything else.<br>
 📫 Ping me at hi@potateros.xyz or<br>
-🐦 @ me on the [bird app](https://twitter.com/potateros) (might be a little chaotic) !<br>
 </samp>
 
 <br>
