@@ -7,4 +7,4 @@ I work on Java & Golang for my day job, and have worked with JS/TS, Ruby, and So
 </samp>
 
 <br>
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="150px"/>
+<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="40vw"/>
