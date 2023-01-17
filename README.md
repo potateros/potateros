@@ -3,7 +3,7 @@
 
 <samp>Software Engineer 🧑‍💻.<br> 
 I like ☕ coffee, 🍱 food, and 💻 code.<br>
-I work on Java & Golang for my day job, and have worked with JS/TS, Ruby, and Solidity.<br>
+I work on Java, TypeScript, Kotlin for my day job, and have worked with JS, Ruby, React, and Solidity.<br>
 </samp>
 
 <br>
